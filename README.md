@@ -1,3 +1,6 @@
+### 1 POINTS
+### KEY: Not all solutions produce requested results
+
 # Python Review: Functions Classwork
 
 ### Problem 1:
